@@ -1,0 +1,15 @@
+Adams
+75
+75
+Baker
+100
+75
+Campbell
+84
+75
+Dewey
+80
+75
+East
+50
+75
